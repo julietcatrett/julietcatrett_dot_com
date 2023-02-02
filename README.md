@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ea514643-3642-4cb6-b00a-a06bde851915/deploy-status)](https://app.netlify.com/sites/lovely-heliotrope-01eed0/deploys)
+
 # 🚀 AstroWind
 
 <img src="https://raw.githubusercontent.com/onwidget/.github/main/resources/astrowind/lighthouse-score.png" align="right"
